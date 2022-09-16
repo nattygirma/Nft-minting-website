@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Nft-minting-website/static/css/main.7c2e4077.css",
+    "main.js": "/Nft-minting-website/static/js/main.2c63da72.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Nft-minting-website/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Nft-minting-website/index.html",
+    "main.7c2e4077.css.map": "/Nft-minting-website/static/css/main.7c2e4077.css.map",
+    "main.2c63da72.js.map": "/Nft-minting-website/static/js/main.2c63da72.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Nft-minting-website/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c2e4077.css",
+    "static/js/main.2c63da72.js"
+  ]
+}
